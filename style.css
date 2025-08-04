@@ -1,3 +1,4 @@
+
 /* Reset and base styling */
 * {
   margin: 0;
@@ -193,6 +194,7 @@ h2 {
   border-radius: 50%;
   animation: float 3s ease-in-out infinite;
 }
+
 
 footer {
   text-align: center;
