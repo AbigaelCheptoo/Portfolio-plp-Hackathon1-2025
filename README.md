@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases who I am, my sk
 
 ## ✨ Demo
 
-🔗 [Live Demo](https://your-portfolio-link.com)  
+🔗 [Live Demo](https://portfolio-plp-hackathon1-2025.vercel.app/)  
 📂 [Repository](https://github.com/AbigaelCheptoo/Portfolio-plp-Hackathon1-2025)
 
 ---
