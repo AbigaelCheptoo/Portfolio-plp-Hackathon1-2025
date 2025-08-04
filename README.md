@@ -11,24 +11,24 @@ Welcome to my personal portfolio website! This project showcases who I am, my sk
 📂 [Repository](https://github.com/AbigaelCheptoo/Portfolio-plp-Hackathon1-2025)
 
 ---
-## 🎯 Features
+## Features
 
-- 🌠 Animated starry background
-- 🎨 Smooth CSS transitions and hover effects
-- 📱 Fully responsive design
-- 🧩 Section animations (fade-in, slide-up)
-- 📩 Contact form (frontend only)
-- ⚡ Downloadable CV
+-  Animated starry background
+-  Smooth CSS transitions and hover effects
+-  Fully responsive design
+-  Section animations (fade-in, slide-up)
+-  Contact form (frontend only)
+-  Downloadable CV
 
 ---
 
 ## Sections
 
-- 📝 About Me  
-- 🎓 Education  
-- 💡 Interests  
-- 🛠️ Projects  
-- 📬 Contact Form  
+-  About Me  
+-  Education  
+-  Interests  
+-  Projects  
+-  Contact Form  
   
 
 ---
